@@ -58,4 +58,20 @@ In the dataset, you’ll get data of different stores of a supermarket company a
 
 **Store_Sales:** Sales in (US $) that stores made
 
-  
+## Exploratory Data Analysis on Supermarket Store Branches' Sales Data
+
+### EXPLORATORY DATA ANALYSIS STEPS
+1. Importing the required Libraries for EDA
+2. Acquiring the dataset
+3. Data Preparation
+4. Data Profiling
+5. Data Cleaning
+   
+     a. Dropping Duplicates
+   
+     b. Removing Missing Values
+7. Finding Outliers
+8. Finding Correlations
+9. Visualizations
+10. Observations and Summary
+11. Recommendations
