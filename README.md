@@ -8,7 +8,7 @@
    
 Supermarket chains operate multiple branches across various locations to cater to diverse customer needs and preferences. This project aims to leverage data analysis techniques to optimize the operations and performance of supermarket store branches. By analyzing key metrics and factors affecting branch performance, this study seeks to provide actionable insights for improving efficiency, profitability, and customer satisfaction.
 
-**3. Objectives:**
+**2. Objectives:**
 
 - Identify key performance indicators (KPIs) for supermarket store branches.
 - Analyze trends and patterns in branch performance metrics such as sales, foot traffic, inventory turnover, and customer satisfaction.
@@ -16,13 +16,13 @@ Supermarket chains operate multiple branches across various locations to cater t
 - Develop predictive models to forecast sales, demand for specific products, and customer behavior at branch levels.
 - Recommend strategies and interventions to optimize operations, enhance profitability, and improve customer experience across supermarket store branches.
 
-**4. Data Analysis Methods:**
+**3. Data Analysis Methods:**
 
 - Conduct descriptive analytics to summarize and visualize branch performance metrics, including sales trends over time, geographic distribution of customers, popular products, and peak shopping hours.
   
 - Perform exploratory data analysis (EDA) to identify correlations, outliers, and patterns in the data, using techniques such as clustering, factor analysis, and association rule mining.
 
-**5. Results and Insights:**
+**4. Results and Insights:**
 
 - Provide actionable insights and recommendations for supermarket management to optimize branch operations and performance.
 
@@ -34,7 +34,7 @@ Supermarket chains operate multiple branches across various locations to cater t
 
 - Highlight opportunities for expansion, relocation, or consolidation of branches based on market demand, competition, and profitability.
 
-**6. Conclusion:**
+**5. Conclusion:**
 
 - Summarize key findings, insights, and recommendations from the data analysis project.
 
