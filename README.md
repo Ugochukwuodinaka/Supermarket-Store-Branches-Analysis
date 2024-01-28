@@ -75,3 +75,43 @@ In the dataset, you’ll get data of different stores of a supermarket company a
 9. Visualizations
 10. Observations and Summary
 11. Recommendations
+
+Importing the required Libraries for EDA
+```
+import pandas as pd
+import os
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+import plotly.express as px
+```
+Assign df as pandas DataFrame
+```
+df = pd.DataFrame()
+```
+Acquire the dataset
+```
+df = pd.read_csv(r"stores.csv")
+```
+View Pandas DataFrame
+```
+df
+```
+![image](https://github.com/Ugochukwuodinaka/Exploratory-Data-Analysis-of-a-Supermarket-Store-Branches/assets/157266999/c271abd0-ec1a-4e6c-8d67-9a189785b115)
+
+View first 10 rows of data
+```
+df.head(10)
+```
+View last 10 rows of data
+```
+df.tail(10)
+```
+#### DATA PROFILING STEPS
+1. Data type
+2. Quantile statistics (central tendecies)
+3. Length (length and shape of the dataset)
+4. Discrete values
+5. Uniqueness (unique values)
+6. Occurence of null values and etc.
+
