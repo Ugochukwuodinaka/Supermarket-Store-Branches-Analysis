@@ -103,3 +103,17 @@ For a complete view of the processes, codes, visuals, key insights, observations
 
 ## Data Analysis and Visuals in PowerPoint Presentation Slides:
 ![](Supermarket_Store_Front_Page.jpg)
+
+1. From the presentation, the toal revenue accrued by all the supermarket store breanches is $53,178,770.
+2. The total number of store branches is 897.
+3. The total number of items in all store branches is 1,596,704.
+4. Total number of daily customers that comes for shopping in all store branches is 704,570.
+5. Total area of all stores (size) is 1,330,927.
+6. For the top performing stores, store sizes and volume of item stock plays a slightly positive role in the number of customers that visit the stores daily and the profits they make. 
+7. While some of the top stores with most daily sales has a higher daily customer count, others maintain strong slaes performance with lower customer count. indicating effective sales strategies by these stores with lower customer count but are ranked amongst the top selling stores.
+8. The least performing stores by store size and daily customer count faces the challenge of attracting a substantial number of daily customers, which suggests potential room for improvement. Some stores with bigger store area still faces the challenge of weak daily customer count which affects their daily sales and which reflects a potential area for improvement.
+9.  
+10. within this period is it is observed that the total Uunicorn Valuation as of 2022 is $3.711T 
+11. The Total number of Unicorn Companies is 1074 and total number of industries is 15
+12. For Location, the total number of Unicorn Cities is 257, while the number of Unicorns Countries is 46.
+13. The top Unicorn Industries happens to be in the Tech Industry. The Fintech tops this list with 224 Unicorns, nternet Software & Services has 205, E-Commerce & Direct-To-Consumer has 111, while Artificial Intelligence has 84.
