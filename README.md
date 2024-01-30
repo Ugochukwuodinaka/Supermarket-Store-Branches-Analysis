@@ -80,62 +80,26 @@ The primary dataset used in this analysis is the "Stores.csv" file. These datase
 
 - Outline potential future research directions and areas for continuous improvement in leveraging data analytics for retail management.
 
+## Supermarket Store Branches EDA In Python:
+
+Top 10 Stores With Most Item Sales       | Least 10 Stores With Most Item Sales        
+:----------------------------------------:|:--------------------------------------------:|
+![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/a9d0e9c3-63bf-40d5-a2f9-4892c5b5f46c)| ![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/88152193-ebc5-41a5-afb0-0bb86d704b01)
 
 
-## Exploratory Data Analysis on Supermarket Store Branches' Sales Data
+Top 10 Stores With Most Item Sales By Store Area and Daily Customer Count       | Least 10 Stores With Most Item Sales By Store Area and Daily Customer Count       
+:----------------------------------------:|:--------------------------------------------:|
+![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/10660ed6-60c7-4e37-8757-e8a1503f8b17)| ![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/4c354003-9b2c-4680-a685-db068409be3b)
 
-### EXPLORATORY DATA ANALYSIS STEPS
-1. Importing the required Libraries for EDA
-2. Acquiring the dataset
-3. Data Preparation
-4. Data Profiling
-5. Data Cleaning
-   
-     a. Dropping Duplicates
-   
-     b. Removing Missing Values
-7. Finding Outliers
-8. Finding Correlations
-9. Visualizations
-10. Observations and Summary
-11. Recommendations
+Top 10 Stores With Most Daily Customer Count By Store Area and Item Sales       | Least 10 Stores With Most Daily Customer Count By Store Area and Item Sales       
+:----------------------------------------:|:--------------------------------------------:|
+![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/fabea63d-2241-44ab-a523-466a11340f52)| ![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/3979af5d-6d93-4bf8-8449-93f03b37522c)
 
-Importing the required Libraries for EDA
-```
-import pandas as pd
-import os
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import plotly.express as px
-```
-Assign df as pandas DataFrame
-```
-df = pd.DataFrame()
-```
-Acquire the dataset
-```
-df = pd.read_csv(r"stores.csv")
-```
-View Pandas DataFrame
-```
-df
-```
-![image](https://github.com/Ugochukwuodinaka/Exploratory-Data-Analysis-of-a-Supermarket-Store-Branches/assets/157266999/c271abd0-ec1a-4e6c-8d67-9a189785b115)
+Top 10 Stores With Most Store Area By Store Sales and Daily Customer Count       | Least 10 Stores With Most Store Area By Store Sales and Daily Customer Count        
+:----------------------------------------:|:--------------------------------------------:|
+![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/dd7cfed4-8892-45c0-aaea-f617b3a836fa)| ![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/assets/157266999/e2621780-5414-4716-83a2-0f420b75fb1f)
 
-View first 10 rows of data
-```
-df.head(10)
-```
-View last 10 rows of data
-```
-df.tail(10)
-```
-#### DATA PROFILING STEPS
-1. Data type
-2. Quantile statistics (central tendecies)
-3. Length (length and shape of the dataset)
-4. Discrete values
-5. Uniqueness (unique values)
-6. Occurence of null values and etc.
+For a complete view of the processes, codes, visuals, key insights, observations and summary of the Exploratory Data Analysis (EDA) of this project in python Jupiter Notebook, please click [here](Supermarket_Stores_Branches_Sales_Analysis_Project.ipynb)
 
+## Data Analysis and Visuals in PowerPoint Presentation Slides:
+![](Supermarket_Store_Front_Page.jpg)
