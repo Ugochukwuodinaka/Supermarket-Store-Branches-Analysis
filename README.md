@@ -112,8 +112,9 @@ For a complete view of the processes, codes, visuals, key insights, observations
 6. For the top performing stores, store sizes and volume of item stock plays a slightly positive role in the number of customers that visit the stores daily and the profits they make. 
 7. While some of the top stores with most daily sales has a higher daily customer count, others maintain strong slaes performance with lower customer count. indicating effective sales strategies by these stores with lower customer count but are ranked amongst the top selling stores.
 8. The least performing stores by store size and daily customer count faces the challenge of attracting a substantial number of daily customers, which suggests potential room for improvement. Some stores with bigger store area still faces the challenge of weak daily customer count which affects their daily sales and which reflects a potential area for improvement.
-9.  
-10. within this period is it is observed that the total Uunicorn Valuation as of 2022 is $3.711T 
-11. The Total number of Unicorn Companies is 1074 and total number of industries is 15
-12. For Location, the total number of Unicorn Cities is 257, while the number of Unicorns Countries is 46.
-13. The top Unicorn Industries happens to be in the Tech Industry. The Fintech tops this list with 224 Unicorns, nternet Software & Services has 205, E-Commerce & Direct-To-Consumer has 111, while Artificial Intelligence has 84.
+9.  The top selling stores with the most daily customer count includes a combination of stores with varying store sizes which indicates an effective sales strategy and which resulted in effectively drawing foot traffic.
+10.  The least selling stores with the least daily customer count indicates a challenge in customer attraction strategy. There are stores with larger store sizes and volume of items but with a weak daily custonmer count which suggests mapping out an effective strategy for sales improvement.
+11. within this period is it is observed that the total Uunicorn Valuation as of 2022 is $3.711T 
+12. The Total number of Unicorn Companies is 1074 and total number of industries is 15
+13. For Location, the total number of Unicorn Cities is 257, while the number of Unicorns Countries is 46.
+14. The top Unicorn Industries happens to be in the Tech Industry. The Fintech tops this list with 224 Unicorns, nternet Software & Services has 205, E-Commerce & Direct-To-Consumer has 111, while Artificial Intelligence has 84.
