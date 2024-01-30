@@ -130,3 +130,5 @@ For a complete view of the processes, codes, visuals, key insights, observations
 - All these points can improve sales immensely.
 
 
+## View Power BI Dashboard Report
+Here’s a link to a [PowerPoint Presentation](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/blob/main/EDA%20OF%20SUPERMARKET%20STORE%20BRANCHES%20USING%20PYTHON%20-%20ODINAKACHUKWU%20UGOCHUKWU%20NNANNA.pdf) of this report which I created in the second phase of this project. This presentation slides displays clear visuals of this analysis.
