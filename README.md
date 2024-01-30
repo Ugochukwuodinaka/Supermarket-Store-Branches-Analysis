@@ -7,9 +7,8 @@
 - [About Dataset](#about-dataset)
 - [Supermarket Store Branches EDA In Python](#supermarket-store-branches-eda-in-python)
 - [Data Analysis and Visuals in PowerPoint Presentation Slides](#data-analysis-and-visuals-in-powerpoint-presentation-slides-front-page)
-- [Factors That Influences The Emergence of Unicorns](#factors-that-influences-the-emergence-of-unicorns)
-- [Recommendations Towards The Growth of Unicorn Companies](#recommendations-towards-the-growth-of-unicorn-companies)
-- [View Power BI Dashboard Report](#view-power-bi-dashboard-report)
+- [Recommendations towards Rectifying Defects In Store Branches Sales and Making Them More Profitable](#recommendations-towards-rectifying-defects-in-store-branches-sales-and-on-making-them-more-profitable)
+- [View PowerPoint Presentatation PDF](#view-powerpoint-presentatation-pdf)
 
 ## Project Overview
 ### Introduction:
@@ -140,5 +139,5 @@ For a complete view of the processes, codes, visuals, key insights, observations
 - All these points can improve sales immensely.
 
 
-## View Power BI Dashboard Report
+## View PowerPoint Presentatation PDF
 Here’s a link to a [PowerPoint Presentation](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/blob/main/EDA%20OF%20SUPERMARKET%20STORE%20BRANCHES%20USING%20PYTHON%20-%20ODINAKACHUKWU%20UGOCHUKWU%20NNANNA.pdf) of this report which I created in the second phase of this project. This presentation slides displays clear visuals of this analysis.
