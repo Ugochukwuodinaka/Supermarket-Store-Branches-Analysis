@@ -1,6 +1,16 @@
 # Exploratory-Data-Analysis-of-Supermarket-Store-Branches
 ![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/blob/main/Supermarket_Store_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [About Dataset](#about-dataset)
+- [Supermarket Store Branches EDA In Python](#supermarket-store-branches-eda-in-python)
+- [Data Analysis and Visuals in PowerPoint Presentation Slides](#data-analysis-and-visuals-in-powerpoint-presentation-slides-front-page)
+- [Factors That Influences The Emergence of Unicorns](#factors-that-influences-the-emergence-of-unicorns)
+- [Recommendations Towards The Growth of Unicorn Companies](#recommendations-towards-the-growth-of-unicorn-companies)
+- [View Power BI Dashboard Report](#view-power-bi-dashboard-report)
+
 ## Project Overview
 ### Introduction:
    
