@@ -1,14 +1,20 @@
-# Exploratory-Data-Analysis-of-an-Online-Retail-Store
-
-## Project Screenshot From PowerPoint Presentation Front Slide
-![ED8F45~1](https://github.com/Ugochukwuodinaka/Exploratory-Data-Analysis-of-a-Supermarket-Store-Branches/assets/157266999/454399d4-39de-4416-9930-ba0af3964847)
+# Exploratory-Data-Analysis-of-Supermarket-Store-Branches
+![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/blob/main/Supermarket_Store_image.jpg)
 
 ## Project Overview
-**1. Introduction:**
+### Introduction:
    
 Supermarket chains operate multiple branches across various locations to cater to diverse customer needs and preferences. This project aims to leverage data analysis techniques to optimize the operations and performance of supermarket store branches. By analyzing key metrics and factors affecting branch performance, this study seeks to provide actionable insights for improving efficiency, profitability, and customer satisfaction.
 
-**2. Objectives:**
+### Problem Statement:
+- In the competitive landscape of supermarket retail, ensuring optimal performance of individual store branches is crucial for sustained profitability and customer satisfaction.
+- Understanding the multifaceted factors influencing branch performance and identifying key performance indicators (KPIs) can be challenging.
+- This project aims to address these challenges by:
+     - Analyzing trends, patterns, and factors affecting branch performance metrics such as sales, foot traffic, inventory turnover, and customer satisfaction.
+     - Leveraging data-driven insights and predictive modeling techniques.
+     - Developing actionable strategies and interventions to optimize operations, enhance profitability, and elevate the overall customer experience across supermarket store branches.
+  
+### Objectives:
 
 - Identify key performance indicators (KPIs) for supermarket store branches.
 - Analyze trends and patterns in branch performance metrics such as sales, foot traffic, inventory turnover, and customer satisfaction.
@@ -16,13 +22,31 @@ Supermarket chains operate multiple branches across various locations to cater t
 - Develop predictive models to forecast sales, demand for specific products, and customer behavior at branch levels.
 - Recommend strategies and interventions to optimize operations, enhance profitability, and improve customer experience across supermarket store branches.
 
-**3. Data Analysis Methods:**
+### Tools:
+1. Python (Was used for Data Cleaning, profilling and Exploratory Data Analysis)
+   - The following Python Features were incorporated:
+      1. Jupiter Notebook
+      2. Numpy
+      3. pandas
+      4. Visualization
+          - Matplotlib
+          - Seaborn
+          - Plotly
+      5. Integration With Other tools
+         
+2. Microsoft PowerPoint(Was used to create analysis report presentation in slides for this project)
 
+### Methodology (Python):
 - Conduct descriptive analytics to summarize and visualize branch performance metrics, including sales trends over time, geographic distribution of customers, popular products, and peak shopping hours.
   
 - Perform exploratory data analysis (EDA) to identify correlations, outliers, and patterns in the data, using techniques such as clustering, factor analysis, and association rule mining.
 
-**4. Results and Insights:**
+### Statistical Analysis:
+
+- Calculate descriptive statistics, including mean, median, standard deviation, and correlation coefficients, to quantify store branches sales activity.
+
+
+### Results and Insights:
 
 - Provide actionable insights and recommendations for supermarket management to optimize branch operations and performance.
 
@@ -34,19 +58,9 @@ Supermarket chains operate multiple branches across various locations to cater t
 
 - Highlight opportunities for expansion, relocation, or consolidation of branches based on market demand, competition, and profitability.
 
-**5. Conclusion:**
 
-- Summarize key findings, insights, and recommendations from the data analysis project.
-
-- Emphasize the importance of data-driven decision-making in optimizing supermarket store branch operations and achieving business objectives.
-
-- Outline potential future research directions and areas for continuous improvement in leveraging data analytics for retail management.
-
-
-## About Dataset
-A supermarket is a self-service shop offering a wide variety of food, beverages, and household products, organized into sections. This kind of store is larger and has a wider selection than earlier grocery stores but is smaller and more limited in the range of merchandise than a hypermarket or big-box market. In everyday U.S. usage, however, "grocery store" is synonymous with supermarket, and is not used to refer to other types of stores that sell groceries.
-
-In the dataset, you’ll get data of different stores of a supermarket company as per their store IDs which for ease have been converted to positive integers.
+### About Dataset:
+The primary dataset used in this analysis is the "Stores.csv" file. These dataset was released by [Quantum Analytics](https://www.quantumanalyticsco.org/). The Data Dictionary can be viewed or downloaded [here](Stores.csv). In the dataset, you’ll get data of different stores of a supermarket company as per their store IDs which for ease have been converted to positive integers.
 
 **Store ID:** (Index) ID of the particular store.
 
@@ -57,6 +71,16 @@ In the dataset, you’ll get data of different stores of a supermarket company a
 **DailyCustomerCount:** Number of customers who visited stores on average over a month.
 
 **Store_Sales:** Sales in (US $) that stores made
+
+### Conclusion:
+
+- Summarize key findings, insights, and recommendations from the data analysis project.
+
+- Emphasize the importance of data-driven decision-making in optimizing supermarket store branch operations and achieving business objectives.
+
+- Outline potential future research directions and areas for continuous improvement in leveraging data analytics for retail management.
+
+
 
 ## Exploratory Data Analysis on Supermarket Store Branches' Sales Data
 
