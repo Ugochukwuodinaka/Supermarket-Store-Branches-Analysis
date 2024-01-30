@@ -101,7 +101,7 @@ Top 10 Stores With Most Store Area By Store Sales and Daily Customer Count      
 
 For a complete view of the processes, codes, visuals, key insights, observations and summary of the Exploratory Data Analysis (EDA) of this project in python Jupiter Notebook, please click [here](Supermarket_Stores_Branches_Sales_Analysis_Project.ipynb)
 
-## Data Analysis and Visuals in PowerPoint Presentation Slides:
+## Data Analysis and Visuals in PowerPoint Presentation Slides (Front Page):
 ![](Supermarket_Store_Front_Page.jpg)
 
 1. From the presentation, the toal revenue accrued by all the supermarket store breanches is $53,178,770.
@@ -116,7 +116,7 @@ For a complete view of the processes, codes, visuals, key insights, observations
 10. The least selling stores with the least daily customer count indicates a challenge in customer attraction strategy. There are also stores with larger store sizes and volume of items but with a weak daily customer count which suggests mapping out an effective strategy for sales improvement.
 11. For a better and deep understanding, a complete PowerPoint Prentation project in PDF of this project analysis can be viewed or downloaded [here](EDA%20OF%20SUPERMARKET%20STORE%20BRANCHES%20USING%20PYTHON%20-%20ODINAKACHUKWU%20UGOCHUKWU%20NNANNA.pdf)
 
-## Recommendations On Rectifying Defects In Store Branches Sales and On Making Them More Profitable
+## Recommendations towards Rectifying Defects In Store Branches Sales and Making Them More Profitable
 - The Store branches that are experiencing low sales have opportunities to improve. Strategies such as targeted marketing, inventory adjustments, or operational enhancements can boost sales.
 
 - Stakeholders may need to evaluate the allocation of resources to these stores. They should consider whether additional staff support, staff trainings, an upward review of staff salaries and bonuses, or improvement in marketing efforts are needed to improve the performance of these stores.
