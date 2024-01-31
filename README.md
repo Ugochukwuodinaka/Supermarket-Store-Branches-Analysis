@@ -69,7 +69,7 @@ Supermarket chains operate multiple branches across various locations to cater t
 
 
 ### About Dataset:
-The primary dataset used in this analysis is the "Stores.csv" file. These dataset was released by [Quantum Analytics](https://www.quantumanalyticsco.org/). The Data Dictionary can be viewed or downloaded [here](Stores.csv). In the dataset, you’ll get data of different stores of a supermarket company as per their store IDs which for ease have been converted to positive integers.
+The primary dataset used in this analysis is the "Stores.csv" file. These dataset was released by [Quantum Analytics](https://www.quantumanalyticsco.org/). The dataset can be viewed or downloaded [here](Stores.csv). In the dataset, you’ll get data of different stores of a supermarket company as per their store IDs which for ease have been converted to positive integers.
 
 **Store ID:** (Index) ID of the particular store.
 
