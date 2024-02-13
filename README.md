@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Supermarket-Store-Branches
+# Exploratory Data Analysis of Supermarket Store Branches
 ![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/blob/main/Supermarket_Store_image.jpg)
 
 ## Table of Contents
