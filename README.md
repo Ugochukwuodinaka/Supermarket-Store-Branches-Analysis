@@ -1,5 +1,5 @@
 # Exploratory Data Analysis of Supermarket Store Branches
-![](https://github.com/Ugochukwuodinaka/Supermarket-Store-Branches-Analysis/blob/main/Supermarket_Store_image.jpg)
+![](images/Supermarket_Store_image.jpg)
 <br />
 
 ## Table of Contents
@@ -117,7 +117,7 @@ For a complete view of the processes, codes, visuals, key insights, observations
 <br />
 
 ## Analysis and Visuals in PowerPoint Presentation Slides (Front Page):
-![](Supermarket_Store_Front_Page.jpg)
+![](images/Supermarket_Store_Front_Page.jpg)
 <br />
 <br />
 
@@ -153,3 +153,4 @@ Here’s a link to a [PowerPoint Presentation](https://github.com/Ugochukwuodina
 <br />
 
 ## Thank You for Following Through!
+![](images/Thank_You_1.jpg)
