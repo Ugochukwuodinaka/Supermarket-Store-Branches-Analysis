@@ -116,35 +116,33 @@ For a complete view of the processes, codes, visuals, key insights, observations
 <br />
 <br />
 
-## Data Analysis and Visuals in PowerPoint Presentation Slides (Front Page):
+## Analysis and Visuals in PowerPoint Presentation Slides (Front Page):
 ![](Supermarket_Store_Front_Page.jpg)
+<br />
+<br />
 
-1. From the presentation, the toal revenue accrued by all the supermarket store breanches is __$53,178,770__.
-2. The total number of store branches is __897__.
-3. The total number of items in all store branches is __1,596,704__.
-4. Total number of daily customers that comes for shopping in all store branches is __704,570__.
-5. Total area of all stores (size) is __1,330,927__.
-6. For the top performing stores, store sizes and volume of item stock plays a slightly positive role in the number of customers that visit the stores daily and the profits they make. 
-7. While some of the top stores with most daily sales has a higher daily customer count, others maintain strong slaes performance with lower customer count. indicating effective sales strategies by these stores with lower customer count but are ranked amongst the top selling stores.
-8. The least performing stores by store size and daily customer count faces the challenge of attracting a substantial number of daily customers, which suggests potential room for improvement. Some stores with bigger store area still faces the challenge of weak daily customer count which affects their daily sales and which reflects a potential area for improvement.
-9.  The top selling stores with the most daily customer count includes a combination of stores with varying store sizes which indicates an effective sales strategy and which also resulted in effectively drawing foot traffic.
-10. The least selling stores with the least daily customer count indicates a challenge in customer attraction strategy. There are also stores with larger store sizes and volume of items but with a weak daily customer count which suggests mapping out an effective strategy for sales improvement.
-11. For a better and deep understanding, a complete PowerPoint Prentation project in PDF of this project analysis can be viewed or downloaded [here](EDA%20OF%20SUPERMARKET%20STORE%20BRANCHES%20USING%20PYTHON%20-%20ODINAKACHUKWU%20UGOCHUKWU%20NNANNA.pdf)
+### Project Analysis:
+- From the presentation, the toal revenue accrued by all the supermarket store breanches is __$53,178,770__.
+- The total number of store branches is __897__.
+- The total number of items in all store branches is __1,596,704__.
+- Total number of daily customers that comes for shopping in all store branches is __704,570__.
+- Total area of all stores (size) is __1,330,927__.
+- For the top performing stores, store sizes and volume of item stock plays a slightly positive role in the number of customers that visit the stores daily and the profits they make. 
+- While some of the top stores with the most daily sales have a higher daily customer count, others maintain strong sales performance with a lower customer count. indicating effective sales strategies by these stores with lower customer count but are ranked amongst the top-selling stores.
+- The least-performing stores by store size and daily customer count face the challenge of attracting a substantial number of daily customers, which suggests potential room for improvement. Some stores with bigger store areas still face the challenge of weak daily customer count which affects their daily sales and which reflects a potential area for improvement.
+- The top-selling stores with the most daily customer count include a combination of stores with varying store sizes which indicates an effective sales strategy and which also resulted in effectively drawing foot traffic.
+- The least-selling stores with the least daily customer count indicate a challenge in customer attraction strategy. There are also stores with larger store sizes and volume of items but with a weak daily customer count which suggests mapping out an effective strategy for sales improvement.
+- For a better and deeper understanding, a complete PowerPoint presentation project in PDF of this project analysis can be viewed or downloaded [here](EDA%20OF%20SUPERMARKET%20STORE%20BRANCHES%20USING%20PYTHON%20-%20ODINAKACHUKWU%20UGOCHUKWU%20NNANNA.pdf)
 <br />
 <br />
 <br />
 
 ## Recommendations towards Rectifying Defects In Store Branches Sales and On Making Them More Profitable
 - The Store branches that are experiencing low sales have opportunities to improve. Strategies such as targeted marketing, inventory adjustments, or operational enhancements can boost sales.
-
-- Stakeholders may need to evaluate the allocation of resources to these stores. They should consider whether additional staff support, staff trainings, an upward review of staff salaries and bonuses, or improvement in marketing efforts are needed to improve the performance of these stores.
-
-- Some of the least performing stores exhibits low customer counts, this indicates that stakeholders need to look into potential areas for improvement in customer attraction and engagement possibly through targeted marketing, promotions, store layout enhancements or re-organization.
-
-- There are stores with large store sizes but with lower daily customer counts and sales output, stakeholders should look at ways of improving sales strategies, ways of optimizing sales efficiency and ways of enhancing customer engagement.
-
-- The stakeholders should also look for means of improving their systems and processes by leveraging technology in their stores day-to-day operations. A strong online presence in form of  a good branding of the business online, digital marketing, an e-commerce store, a platform to interact with customers through which they can analyze customer behavioural trend, understand their needs and design a strategy for customer retention online and offline.
-
+- Stakeholders may need to evaluate the allocation of resources to these stores. They should consider whether additional staff support, staff training, an upward review of staff salaries and bonuses, or improvement in marketing efforts are needed to improve the performance of these stores.
+- Some of the least-performing stores exhibit low customer counts, this indicates that stakeholders need to look into potential areas for improvement in customer attraction and engagement possibly through targeted marketing, promotions, store layout enhancements, or re-organization.
+- There are stores with large store sizes but with lower daily customer counts and sales output, stakeholders should look at ways of improving sales strategies, ways of optimizing sales efficiency, and ways of enhancing customer engagement.
+- The stakeholders should also look for means of improving their systems and processes by leveraging technology in their store's day-to-day operations. A strong online presence in the form of good branding of the business online, digital marketing, an e-commerce store, and a platform to interact with customers through which they can analyze customer behavioral trends, understand their needs, and design a strategy for customer retention online and offline.
 - All these points can improve sales immensely.
 <br />
 <br />
