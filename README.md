@@ -52,7 +52,7 @@ We're going to:
 <br />
 
 ### Methodology (Python):
-- Conduct descriptive analytics to summarize and visualize branch performance metrics, including sales trends over time, geographic distribution of customers, popular products, and peak shopping hours.
+- Conduct descriptive analysis to summarize and visualize branch performance metrics, including sales trends over time, geographic distribution of customers, popular products, and peak shopping hours.
   
 - Perform exploratory data analysis (EDA) to identify correlations, outliers, and patterns in the data, using techniques such as clustering, factor analysis, and association rule mining.
 <br />
@@ -65,37 +65,29 @@ We're going to:
 ### Results and Insights:
 
 - Provide actionable insights and recommendations for supermarket management to optimize branch operations and performance.
-
 - Identify high-performing branches and best practices that can be replicated across the chain.
-
 - Suggest improvements in product assortment, pricing strategies, promotional campaigns, staffing levels, and store layout to enhance customer satisfaction and loyalty.
-
 - Propose targeted marketing strategies and personalized recommendations based on customer segmentation and behavioral patterns.
-
 - Highlight opportunities for expansion, relocation, or consolidation of branches based on market demand, competition, and profitability.
 <br />
 <br />
 
 ### About Dataset:
-The primary dataset used in this analysis is the "Stores.csv" file. These dataset was released by [Quantum Analytics](https://www.quantumanalyticsco.org/). The dataset can be viewed or downloaded [here](Stores.csv). In the dataset, you’ll get data of different stores of a supermarket company as per their store IDs which for ease have been converted to positive integers.
+The primary dataset used in this analysis is the "Stores.csv" file. This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The dataset can be viewed or opened [here](Stores.csv). In the dataset, you’ll get data of different stores of a supermarket company as per their store IDs which for ease have been converted to positive integers.
 
-- __Store ID:__ (Index) ID of the particular store.
-
-- __Store_Area:__ Physical Area of the store in yard square.
-
-- __Items_Available:__ Number of different items available in the corresponding store.
-
-- __DailyCustomerCount:__ Number of customers who visited stores on average over a month.
-
-- __Store Sales:__ Sales in (US $) that stores made
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|Stores                              | Store ID                 | (Index) ID of the particular store    |
+|                                    | Store_Area               | Physical Area of the store in yard square     |
+|                                    | Items_Available          | Number of different items available in the corresponding store         |
+|                                    | DailyCustomerCount       | Number of customers who visited stores on average over a month         |
+|                                    | Store Sales              | Sales in (US $) that stores made       |
+|                                    | Category                 | Type of product         |
 <br />
 
 ### Conclusion:
-
 - Summarize key findings, insights, and recommendations from the data analysis project.
-
 - Emphasize the importance of data-driven decision-making in optimizing supermarket store branch operations and achieving business objectives.
-
 - Outline potential future research directions and areas for continuous improvement in leveraging data analytics for retail management.
 <br />
 <br />
